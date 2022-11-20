@@ -3,7 +3,7 @@
 <!--
 **adityamms/adityamms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="center">A passionate software engineer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&rlz=1C1VDKB_enID1029ID1029&sxsrf=ALiCzsaDOL7Vez2tiOgskk1P44oPhF4kKw:1668949729101&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5yICe6rz7AhW6xjgGHV8HCAoQ_AUoAXoECAIQAw&biw=1280&bih=569&dpr=1.5#imgrc=bm-5ttG2JLMj3M">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **frameworks**
 
