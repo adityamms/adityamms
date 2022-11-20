@@ -1,9 +1,9 @@
 <h3 align="center">A passionate software engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **frameworks**
+-I’m currently learning **frameworks**
 
-- 📫 How to reach me **adityamms86@gmail.com**
+-How to reach me **adityamms86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
