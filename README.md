@@ -1,4 +1,4 @@
-<h3 align="center">A passionate front developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 <strog><i>I’m currently learning **JS library & frameworks**<strong><i>
