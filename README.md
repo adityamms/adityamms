@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-<div align="left"> 
+<div align="left" border="2px solid red"> 
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="Nuxt" width="40" height="40" /> 
 <img src="https://assets.stickpng.com/images/62a74f85223343fbc2207d05.png" alt="python" width="40" height="40" /> 
