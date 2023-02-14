@@ -7,6 +7,12 @@
 <a href = "https://www.linkedin.com/in/aditya-marzuk-8603771a1/">Linkedin</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" alt="Vue" width="40" height="40"/> </a> </p>
+<h3 align="left">Tools:</h3>
+<div align="left"> 
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="Nuxt" width="40" height="40" /> 
+<img src="https://assets.stickpng.com/images/62a74f85223343fbc2207d05.png" alt="python" width="40" height="40" /> 
+<img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" alt="Vue" width="40" height="40" /> 
+
+</div>
 
