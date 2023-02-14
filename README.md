@@ -9,11 +9,4 @@
 
 <h3 align="left">Tools:</h3>
 
-<div> 
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png" alt="Nuxt" width="40" height="40" /> 
-<img src="https://www.liblogo.com/img-logo/sa401s514-sass-logo-sass-brand-guidelines.png" alt="SASS" width="40" height="40" /> 
-<img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" alt="Vue" width="40" height="40" /> 
-
-</div>
 
