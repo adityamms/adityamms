@@ -1,7 +1,5 @@
-<h3 align="center">code are fun </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
-<strog><i>I’m currently learning **JS library & frameworks**<strong><i>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
