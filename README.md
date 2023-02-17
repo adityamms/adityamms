@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Aditya Marzuk</h1>
-<h3 align="center">A passionate vue frontend developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 📫 How to reach me **adityamms86@gmail.com**
 
